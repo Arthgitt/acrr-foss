@@ -1,0 +1,9 @@
+streamlit
+unstructured
+pymupdf
+langchain
+faiss-cpu
+sentence-transformers
+python-dotenv
+fastapi
+uvicorn[standard]
