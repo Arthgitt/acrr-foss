@@ -1,3 +1,4 @@
+````markdown
 # ACRR FOSS – Automated Compliance & Risk Reporter (Open-Source Edition)
 
 ACRR FOSS is an open-source **financial document analysis tool** that turns raw PDFs  
@@ -39,42 +40,65 @@ All logic runs with **free, local tools**: Python, FastAPI, FAISS, Ollama, Strea
 
 ---
 
+## 📂 Repository Structure (simplified)
+
+```text
+acrr-foss/
+├── app/
+│   ├── api/                # FastAPI routes (RAG, key fields, multi-agent analysis)
+│   ├── rag/                # Embeddings + FAISS wrapper + RAG pipeline
+│   └── agents/             # CrewAI agents & orchestration
+├── src/
+│   └── extract/
+│       ├── pdf_text.py     # Text extraction
+│       ├── chunking.py     # Chunk generation
+│       └── layout_blocks.py# Layout block extraction + KV finder
+├── data/
+│   ├── vector_stores/      # Stored FAISS indices (per doc_id)
+│   └── layout_blocks/      # Stored layout JSON (per doc_id)
+├── streamlit_app.py        # Main Streamlit UI
+├── requirements.txt
+└── README.md
+````
+
+---
+
 ## 🚀 Getting Started (Local Development)
 
 ### 1. Clone the repo
 
-
+```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
-
+```
 
 ### 2. Create & activate a virtual environment
 
-
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
-
+```
 
 ### 3. Install dependencies
 
-
+```bash
 pip install -r requirements.txt
-
+```
 
 ### 4. Install and run Ollama
 
-
+```bash
 ollama pull qwen2.5:latest
 ollama serve
-
+```
 
 ---
 
 ## 🧠 Running the Backend (FastAPI)
 
-
+```bash
 uvicorn app.api.main:app --reload --port 8000
-
+```
 
 FastAPI docs → [http://localhost:8000/docs](http://localhost:8000/docs)
 
@@ -82,9 +106,9 @@ FastAPI docs → [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## 🖥 Running the Streamlit Frontend
 
-
+```bash
 streamlit run streamlit_app.py --server.port 8502
-
+```
 
 App opens at → [http://localhost:8502](http://localhost:8502)
 
@@ -156,9 +180,10 @@ Each agent shows:
 
 ---
 
+
 ## ✅ Status & Future Ideas
 
-### Right now App is able to do:
+### Completed
 
 * [x] PDF → text & layout extraction
 * [x] Chunking + FAISS indexing
@@ -167,5 +192,6 @@ Each agent shows:
 * [x] Multi-agent financial analysis
 * [x] Streamlit UI
 
----
+
+
 
