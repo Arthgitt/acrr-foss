@@ -1,5 +1,5 @@
 """
-Simple text chunking utilities for ACRR FOSS.
+Simple text chunking utilities
 
 We keep it very basic:
 - Split on character length (max_chars)
@@ -32,7 +32,7 @@ def make_char_chunks(
     start = 0
     chunk_id = 0
 
-    # Safety: avoid weird values
+    
     max_chars = max(1, max_chars)
     overlap = max(0, overlap)
 

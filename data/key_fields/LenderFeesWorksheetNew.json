@@ -1,0 +1,94 @@
+{
+  "document_type": "lender_fees_worksheet",
+  "loan_terms": {
+    "loan_amount": 380000,
+    "interest_rate_percent": 4.25,
+    "term_months": 360,
+    "rate_type": "fixed"
+  },
+  "property": {
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": "90210"
+  },
+  "parties": {
+    "borrower_names": [
+      "Borrower"
+    ],
+    "lender_name": "XYZ Lender",
+    "other_parties": [
+      "Title Company",
+      "Escrow Company"
+    ]
+  },
+  "payment_info": {
+    "estimated_monthly_payment": 1986.95,
+    "principal_interest": 1333.33,
+    "escrow": 653.62,
+    "first_payment_date": "01/01/2026"
+  },
+  "fee_items": [
+    {
+      "label": "Origination Charges",
+      "amount": 550.0,
+      "category": "origination"
+    },
+    {
+      "label": "Underwriting Fee",
+      "amount": null,
+      "category": "underwriting"
+    },
+    {
+      "label": "Wire Transfer Fees",
+      "amount": null,
+      "category": "wire"
+    },
+    {
+      "label": "Closing/Escrow Fee",
+      "amount": 860.0,
+      "category": "escrow"
+    },
+    {
+      "label": "Document Preparation Fees",
+      "amount": null,
+      "category": "document"
+    },
+    {
+      "label": "Pest Inspection Fee",
+      "amount": 50.0,
+      "category": "pest"
+    },
+    {
+      "label": "Daily Interest Charges",
+      "amount": 44.86,
+      "category": "interest"
+    }
+  ],
+  "risk_notes": [
+    "Verify all fees and charges with the lender."
+  ],
+  "other_numeric_fields": [
+    {
+      "section": "Prepaids",
+      "label": "Daily Interest Charges",
+      "value": 44.86,
+      "unit": "USD",
+      "notes": "calculated over 25 days"
+    },
+    {
+      "section": "Escrow",
+      "label": "Escrow",
+      "value": 653.62,
+      "unit": "USD",
+      "notes": "Includes taxes and insurance"
+    }
+  ],
+  "other_text_fields": [
+    {
+      "section": "Disclosures",
+      "label": "Rate lock expiration",
+      "value": "10/15/2025"
+    }
+  ]
+}

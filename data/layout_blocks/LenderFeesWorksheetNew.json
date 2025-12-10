@@ -1,0 +1,338 @@
+[
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      26.097490310668945,
+      587.3409423828125,
+      38.3197021484375
+    ],
+    "text": "Your actual rate, payment, and cost could be higher. Get an official Loan Estimate before choosing a loan.",
+    "block_no": 0,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      230.39999389648438,
+      58.18072509765625,
+      376.87939453125,
+      71.53446197509766
+    ],
+    "text": "Fee Details and Summary",
+    "block_no": 1,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      78.64180755615234,
+      463.07476806640625,
+      107.48875427246094
+    ],
+    "text": "Applicants:\nApplication No:\nDate Prepared:\nLoan Program:\nPrepared By:",
+    "block_no": 2,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      119.17501068115234,
+      572.3463134765625,
+      147.94798278808594
+    ],
+    "text": "THIS IS NOT A GOOD FAITH ESTIMATE (GFE). This \"Fees Worksheet\" is provided for informational purposes ONLY, to assist\nyou in determining an estimate of cash that may be required to close and an estimate of your proposed monthly mortgage \npayment. Actual charges may be more or less, and your transaction may not involve a fee for every item listed.",
+    "block_no": 3,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      161.84454345703125,
+      460.9887390136719,
+      170.77496337890625
+    ],
+    "text": "Total Loan Amount:  \nInterest Rate:\nTerm/Due In:",
+    "block_no": 4,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      174.15185546875,
+      575.2676391601562,
+      182.1104736328125
+    ],
+    "text": "Fee\nPaid To\nPaid By (Fee Split**)\nAmount\nPFC / F / POC",
+    "block_no": 5,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      799.8319091796875,
+      536.4507446289062,
+      807.79052734375
+    ],
+    "text": "TOTAL ESTIMATED FUNDS NEEDED TO CLOSE:\nTOTAL ESTIMATED MONTHLY PAYMENT:",
+    "block_no": 6,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      930.9918823242188,
+      472.9884338378906,
+      938.9505004882812
+    ],
+    "text": "Total Estimated Funds\nTotal Monthly Payment",
+    "block_no": 7,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      810.0318603515625,
+      144.65753173828125,
+      868.2705078125
+    ],
+    "text": "Purchase Price (+)\nAlterations (+)\nLand (+)\nRefi (incl. debts to be paid off) (+)\nEst. Prepaid Items/Reserves (+)\nEst. Closing Costs (+)",
+    "block_no": 8,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      216.0,
+      810.0318603515625,
+      472.60968017578125,
+      878.4705200195312
+    ],
+    "text": "Loan Amount (-)\nPrincipal & Interest\nOther Financing (P & I)\nHazard Insurance\nReal Estate Taxes\nMortgage Insurance\nHomeowner Assn. Dues\nOther",
+    "block_no": 9,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      945.9918823242188,
+      397.3214111328125,
+      961.1201782226562
+    ],
+    "text": "* PFC\nF\nPOC\n= Prepaid Finance Charge\n= FHA Allowable Closing Cost\n= Paid Outside of Closing\n** B\nS\nBr\nL\nTP\nC\n= Borrower\n= Seller\n= Broker\n= Lender\n= Third Party\n= Correspondent",
+    "block_no": 10,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      964.3176879882812,
+      139.6134033203125,
+      971.8742065429688
+    ],
+    "text": "Calyx Form - feews.frm (09/2015)",
+    "block_no": 11,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      237.60000610351562,
+      42.08164596557617,
+      368.0303649902344,
+      57.68054962158203
+    ],
+    "text": "FEES WORKSHEET",
+    "block_no": 12,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      100.80000305175781,
+      78.44451904296875,
+      571.6966552734375,
+      107.53496551513672
+    ],
+    "text": "John Q. Smith / Mary A. Smith\nsamplesmith\n10/05/2015\n30 YEAR FIXED -Purchase\nXYZ Lender",
+    "block_no": 13,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      116.63999938964844,
+      161.96453857421875,
+      526.578857421875,
+      170.89495849609375
+    ],
+    "text": "$ 380,000\n4.250 %\n360 / 360 mths",
+    "block_no": 14,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      157.9199981689453,
+      809.9645385742188,
+      198.0080108642578,
+      818.8949584960938
+    ],
+    "text": "475,000.00",
+    "block_no": 15,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      166.8000030517578,
+      850.2845458984375,
+      198.00755310058594,
+      870.0149536132812
+    ],
+    "text": "1,121.53\n4,520.00",
+    "block_no": 16,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      216.0,
+      809.9645385742188,
+      378.00799560546875,
+      828.9749755859375
+    ],
+    "text": "380,000.00\nCash Deposit\n5,000.00",
+    "block_no": 17,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      117.36000061035156,
+      930.2045288085938,
+      378.0096740722656,
+      939.1349487304688
+    ],
+    "text": "needed to close\n95,641.53",
+    "block_no": 18,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      523.2000122070312,
+      809.9645385742188,
+      554.4073486328125,
+      818.8949584960938
+    ],
+    "text": "1,869.37",
+    "block_no": 19,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      529.9199829101562,
+      829.404541015625,
+      554.4087524414062,
+      848.4149169921875
+    ],
+    "text": "39.58\n400.00",
+    "block_no": 20,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      523.2000122070312,
+      930.2045288085938,
+      554.4073486328125,
+      939.1349487304688
+    ],
+    "text": "2,308.95",
+    "block_no": 21,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      184.2845458984375,
+      525.6087036132812,
+      273.85491943359375
+    ],
+    "text": "ORIGINATION CHARGES\nUnderwriting Fee\nXYZ Lender\nBorrower\n$\n550.00\nWire Transfer Fee\nXYZ Lender\nBorrower\n$\n75.00\nAdministration Fee\nXYZ Lender\nBorrower\n$\n445.00\nOTHER CHARGES\nAppraisal Fee\nXYZ Lender\nBorrower\n$\n525.00\nCredit Report Fee\nXYZ Lender\nBorrower\n$\n25.00\nTax Service Fee\nXYZ Lender\nBorrower\n$\n80.00\nFlood Certification Fee\nXYZ Lender\nBorrower\n$\n20.00",
+    "block_no": 22,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      285.08453369140625,
+      525.6087036132812,
+      344.4149169921875
+    ],
+    "text": "Closing/Escrow Fee\nSettlement Agent\nBorrower\n$\n860.00\nDocument Preparation Fee\nSettlement Agent\nBorrower\n$\n75.00\nNotary Fee\nNOTARY\nBorrower\n$\n150.00\nLender's Title Insurance\nBorrower\n$\n650.00\nTitle - Courier Fee\nSettlement Agent\nBorrower\n$\n50.00\nElectronic Document Delivery FeeSettlement Agent\nBorrower\n$\n50.00",
+    "block_no": 23,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      355.5245361328125,
+      525.6087036132812,
+      374.53497314453125
+    ],
+    "text": "Pest Inspection Fee\nPEST CONTROL\nBorrower\n$\n50.00\nHome Inspection\nHI COMPANY\nBorrower\n$\n450.00",
+    "block_no": 24,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      385.7645263671875,
+      525.6087036132812,
+      394.6949462890625
+    ],
+    "text": "Mortgage Recording Charge\nBorrower\n$\n150.00",
+    "block_no": 25,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      405.92449951171875,
+      525.607421875,
+      424.9349365234375
+    ],
+    "text": "Borrower\n$\n0.00\nDaily Interest Charges\nXYZ Lender\nBorrower\n$ 44.8611 x 25 day(s)\n$\n1,121.53",
+    "block_no": 26,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      436.16455078125,
+      525.6087036132812,
+      445.094970703125
+    ],
+    "text": "Hazard Insurance Premium\nBorrower\n$ 39.58 x 12 mth(s)\n$\n475.00",
+    "block_no": 27,
+    "block_type": "text"
+  }
+]

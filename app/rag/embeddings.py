@@ -1,5 +1,3 @@
-# app/rag/embeddings.py
-
 from functools import lru_cache
 from typing import List
 

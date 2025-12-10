@@ -8,7 +8,7 @@ import numpy as np
 import requests
 
 from app.rag.embeddings import embed_texts
-from app.rag.vector_store import FaissIndex  # adjust if your class name is different
+from app.rag.vector_store import FaissIndex  
 
 
 class RAGPipeline:
@@ -41,7 +41,7 @@ class RAGPipeline:
             """
         ).strip()
 
-    # ---------- 1. Retrieve chunks from FAISS ----------
+    
     # def _retrieve_contexts(
     #     self,
     #     question: str,
@@ -75,10 +75,10 @@ class RAGPipeline:
         """
         Embed the question, search FAISS, and return a list of context dicts.
         """
-        # 1) Embed the question
+        #  Embed the question
         q_emb: np.ndarray = embed_texts([question])[0]
 
-        # 2) Search the index
+        #  Search the index
         indices, distances = self.index.search(q_emb, top_k)
 
         indices = np.array(indices).reshape(-1)
@@ -132,7 +132,7 @@ class RAGPipeline:
 
 
 
-    # ---------- 2. Build LLM prompt ----------
+    # ---------- Build LLM prompt ----------
     def _build_prompt(self, question: str, contexts: List[Dict[str, Any]]) -> str:
         context_texts = "\n\n---\n\n".join(
             f"[Source: {c.get('source_id','')} | Page: {c.get('page_num','?')}]"
@@ -152,15 +152,25 @@ class RAGPipeline:
             {question}
 
             INSTRUCTIONS:
-            - Use ONLY the information in CONTEXT.
-            - If the answer is not in CONTEXT, say you do not know.
+            You ONLY know what is in the provided CONTEXT. You must:
+            - Pull out relevant numbers (interest rate, total funds to close, monthly payment, fees).
+            - Explain risks, red flags, and disclaimers that appear in the document.
+            - When the user asks if something is "good", "ok", or "reasonable":
+                - You CANNOT compare to current market data.
+                - Instead, explain what the document shows and what is unknown.
+                - Highlight any warnings in the document (e.g. "This is NOT a Good Faith Estimate").
+                - Suggest what a borrower or compliance officer should check next.
+
+            - If the document truly does not mention the topic at all, say so clearly and explain
+                what information would be needed to answer.
             - Highlight any potential compliance or risk issues if relevant.
+            - Always ground your answer in the CONTEXT and quote or paraphrase key lines.
             """
         ).strip()
 
         return prompt
 
-    # ---------- 3. Call Ollama ----------
+    # ---------- Call Ollama ----------
     def _call_ollama(self, prompt: str) -> str:
         url = f"{self.ollama_url}/api/generate"
         payload = {
@@ -175,7 +185,7 @@ class RAGPipeline:
         # Non-streaming: Ollama returns a dict with 'response'
         return (data.get("response") or "").strip()
 
-    # ---------- 4. Public method used by FastAPI & agents ----------
+    # ---------- Public method used by FastAPI & agents ----------
     def query(
         self,
         question: str,
@@ -206,7 +216,7 @@ def get_rag_pipeline() -> RAGPipeline:
     if _rag_pipeline is not None:
         return _rag_pipeline
 
-    # Directory where your FAISS index/metadata were saved in Step 3
+    # Directory where FAISS index/metadata were saved
     index_dir = os.getenv("RAG_INDEX_DIR", "data/faiss_index")
     print("--------------------------------")
     print("Using RAG_INDEX_DIR:", index_dir)

@@ -1,0 +1,1382 @@
+[
+  {
+    "page_num": 1,
+    "bbox": [
+      399.6000061035156,
+      90.1292724609375,
+      531.508056640625,
+      99.62931060791016
+    ],
+    "text": "Customer service information",
+    "block_no": 0,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      399.6000061035156,
+      123.96926879882812,
+      536.9422607421875,
+      133.4693145751953
+    ],
+    "text": "Customer service: 1.800.432.1000",
+    "block_no": 1,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      399.6000061035156,
+      142.68927001953125,
+      511.5010681152344,
+      152.18931579589844
+    ],
+    "text": "En Español: 1.800.688.6086",
+    "block_no": 2,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      399.6000061035156,
+      159.96926879882812,
+      477.6333923339844,
+      169.4693145751953
+    ],
+    "text": "bankofamerica.com",
+    "block_no": 3,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      399.6000061035156,
+      177.249267578125,
+      494.60986328125,
+      206.90931701660156
+    ],
+    "text": "Bank of America, N.A.\nP.O. Box 25118\nTampa, FL 33622-5118",
+    "block_no": 4,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      45.0,
+      158.44039916992188,
+      159.06602478027344,
+      189.0404052734375
+    ],
+    "text": "XITIJ D PATEL\n223 LIBERTY AVE APT 2R\nJERSEY CITY, NJ  07306-4951",
+    "block_no": 5,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      39.599998474121094,
+      87.16477966308594,
+      111.19558715820312,
+      103.04473876953125
+    ],
+    "text": "P.O. Box 15284\nWilmington, DE 19850",
+    "block_no": 6,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      775.209228515625,
+      552.260009765625,
+      784.7092895507812
+    ],
+    "text": "PULL: B   CYCLE: 14   SPEC: E   DELIVERY: E   TYPE:    IMAGE: I   BC: CT\nPage 1 of 8",
+    "block_no": 7,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      307.1026611328125,
+      283.9678039550781,
+      324.1030578613281
+    ],
+    "text": "Your Adv SafeBalance Banking",
+    "block_no": 8,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      329.07598876953125,
+      537.1815185546875,
+      340.0760498046875
+    ],
+    "text": "for September 23, 2025 to October 23, 2025\nAccount number: 3850 3331 1779",
+    "block_no": 9,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      348.2182312011719,
+      131.10958862304688,
+      358.21820068359375
+    ],
+    "text": "XITIJ D PATEL",
+    "block_no": 10,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      370.3473205566406,
+      154.39498901367188,
+      385.3473205566406
+    ],
+    "text": "Account summary",
+    "block_no": 11,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      391.44927978515625,
+      345.14910888671875,
+      400.9493103027344
+    ],
+    "text": "Beginning balance on September 23, 2025\n$117.47",
+    "block_no": 12,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      409.92926025390625,
+      345.0935974121094,
+      419.4292907714844
+    ],
+    "text": "Deposits and other additions\n510.00",
+    "block_no": 13,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      428.4092712402344,
+      345.0906066894531,
+      437.9093017578125
+    ],
+    "text": "ATM and debit card subtractions\n-332.19",
+    "block_no": 14,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      445.56927490234375,
+      344.9795837402344,
+      455.0693054199219
+    ],
+    "text": "Other subtractions\n-0.00",
+    "block_no": 15,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      464.04925537109375,
+      344.9795837402344,
+      473.5492858886719
+    ],
+    "text": "Service fees\n-1.07",
+    "block_no": 16,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      36.0,
+      482.9782409667969,
+      344.8898620605469,
+      492.97821044921875
+    ],
+    "text": "Ending balance on October 23, 2025\n$294.21",
+    "block_no": 17,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      67.31999969482422,
+      628.3025512695312,
+      270.0829162597656,
+      658.2050170898438
+    ],
+    "text": "Better Money Habits®\nWhat are your financial goals?",
+    "block_no": 18,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      67.31999969482422,
+      663.7603759765625,
+      436.94110107421875,
+      695.3203735351562
+    ],
+    "text": "Better Money Habits® helps you make sense of your money and take charge of your financial life.\nYou have the power to pursue your savings, credit and general money goals with education,\ntools - and confidence.",
+    "block_no": 19,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      67.31999969482422,
+      700.898193359375,
+      361.64886474609375,
+      710.898193359375
+    ],
+    "text": "Scan this code to get started today at BetterMoneyHabits.com.",
+    "block_no": 20,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      67.31999969482422,
+      715.6625366210938,
+      470.5699462890625,
+      742.862548828125
+    ],
+    "text": "When you use the QRC feature, certain information is collected from your mobile device for business purposes.\nBank of America, N.A., Member FDIC. Equal Housing Lender ©2025 Bank of America Corporation. Terms and conditions\napply. This is not a commitment to lend. Programs, rates, terms and conditions are subject to change without notice.",
+    "block_no": 21,
+    "block_type": "text"
+  },
+  {
+    "page_num": 1,
+    "bbox": [
+      61.19999694824219,
+      267.5203857421875,
+      531.6450805664062,
+      276.5203857421875
+    ],
+    "text": "Please see the Important Messages - Please Read section of your statement for important details that could impact you.",
+    "block_no": 22,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      26.38254165649414,
+      361.08172607421875,
+      34.38258361816406
+    ],
+    "text": "XITIJ D PATEL   !   Account # 3850 3331 1779   !   September 23, 2025 to October 23, 2025",
+    "block_no": 0,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      504.0,
+      775.4492797851562,
+      550.4360961914062,
+      784.9493408203125
+    ],
+    "text": "Page 2 of 8",
+    "block_no": 1,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      46.165462493896484,
+      248.95469665527344,
+      80.30732727050781
+    ],
+    "text": "IMPORTANT INFORMATION:\nBANK DEPOSIT ACCOUNTS",
+    "block_no": 2,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      94.77824401855469,
+      454.3486633300781,
+      104.77820587158203
+    ],
+    "text": "How to Contact Us - You may call us at the telephone number listed on the front of this statement.",
+    "block_no": 3,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      119.01824951171875,
+      570.3578491210938,
+      153.25820922851562
+    ],
+    "text": "Updating your contact information - We encourage you to keep your contact information up-to-date. This includes address,\nemail and phone number. If your information has changed, the easiest way to update it is by visiting the Help & Support tab of\nOnline Banking.",
+    "block_no": 4,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      167.85824584960938,
+      573.5777587890625,
+      226.33819580078125
+    ],
+    "text": "Deposit agreement - When you opened your account, you received a deposit agreement and fee schedule and agreed that your\naccount would be governed by the terms of these documents, as we may amend them from time to time. These documents are\npart of the contract for your deposit account and govern all transactions relating to your account, including all deposits and\nwithdrawals. Copies of both the deposit agreement and fee schedule which contain the current version of the terms and\nconditions of your account relationship may be obtained at our financial centers.",
+    "block_no": 5,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      240.93824768066406,
+      568.4277954101562,
+      299.418212890625
+    ],
+    "text": "Electronic transfers: In case of errors or questions about your electronic transfers - If you think your statement or receipt is\nwrong or you need more information about an electronic transfer (e.g., ATM transactions, direct deposits or withdrawals,\npoint-of-sale transactions) on the statement or receipt, telephone or write us at the address and number listed on the front of\nthis statement as soon as you can. We must hear from you no later than 60 days after we sent you the FIRST statement on\nwhich the error or problem appeared.",
+    "block_no": 6,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      54.0,
+      314.01824951171875,
+      568.747802734375,
+      360.3782043457031
+    ],
+    "text": "-\nTell us your name and account number.\n-\nDescribe the error or transfer you are unsure about, and explain as clearly as you can why you believe there is an error\nor why you need more information.\n-\nTell us the dollar amount of the suspected error.",
+    "block_no": 7,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      374.9782409667969,
+      567.957763671875,
+      433.4582214355469
+    ],
+    "text": "For consumer accounts used primarily for personal, family or household purposes, we will investigate your complaint and will\ncorrect any error promptly. If we take more than 10 business days (10 calendar days if you are a Massachusetts customer) (20\nbusiness days if you are a new customer, for electronic transfers occurring during the first 30 days after the first deposit is\nmade to your account) to do this, we will provisionally credit your account for the amount you think is in error, so that you will\nhave use of the money during the time it will take to complete our investigation.",
+    "block_no": 8,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      448.0582580566406,
+      548.14794921875,
+      470.17822265625
+    ],
+    "text": "For other accounts, we investigate, and if we find we have made an error, we credit your account at the conclusion of our\ninvestigation.",
+    "block_no": 9,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      484.7782287597656,
+      570.3076782226562,
+      543.2582397460938
+    ],
+    "text": "Reporting other problems - You must examine your statement carefully and promptly. You are in the best position to discover\nerrors and unauthorized transactions on your account. If you fail to notify us in writing of suspected problems or an\nunauthorized transaction within the time period specified in the deposit agreement (which periods are no more than 60 days\nafter we make the statement available to you and in some cases are 30 days or less), we are not liable to you and you agree to\nnot make a claim against us, for the problems or unauthorized transactions.",
+    "block_no": 10,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      557.8582153320312,
+      571.7879638671875,
+      592.0982055664062
+    ],
+    "text": "Direct deposits - If you have arranged to have direct deposits made to your account at least once every 60 days from the same\nperson or company, you may call us to find out if the deposit was made as scheduled. You may also review your activity online\nor visit a financial center for information.",
+    "block_no": 11,
+    "block_type": "text"
+  },
+  {
+    "page_num": 2,
+    "bbox": [
+      36.0,
+      618.4581909179688,
+      196.4895477294922,
+      628.4581909179688
+    ],
+    "text": "© 2025 Bank of America Corporation",
+    "block_no": 12,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      76.78254699707031,
+      361.08172607421875,
+      84.78258514404297
+    ],
+    "text": "XITIJ D PATEL   !   Account # 3850 3331 1779   !   September 23, 2025 to October 23, 2025",
+    "block_no": 0,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      504.0,
+      775.209228515625,
+      552.260009765625,
+      784.7092895507812
+    ],
+    "text": "Page 3 of 8",
+    "block_no": 2,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      120.74732208251953,
+      576.1600952148438,
+      145.74258422851562
+    ],
+    "text": "Deposits and other additions\nDate\nDescription\nAmount",
+    "block_no": 3,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      153.76040649414062,
+      576.035888671875,
+      162.76040649414062
+    ],
+    "text": "09/25/25\nZelle payment from JENISH JIYANI Conf# v9j5w0rv7\n10.00",
+    "block_no": 4,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      171.76040649414062,
+      576.056884765625,
+      180.76040649414062
+    ],
+    "text": "09/30/25\nZelle payment from  JAYMIN PATEL for \"Gift\"; Conf# 99bp5onuz\n500.00",
+    "block_no": 5,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      190.29824829101562,
+      576.1298217773438,
+      200.29820251464844
+    ],
+    "text": "Total deposits and other additions\n$510.00",
+    "block_no": 6,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      227.54733276367188,
+      273.5849914550781,
+      242.54733276367188
+    ],
+    "text": "Withdrawals and other subtractions",
+    "block_no": 7,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      260.7959899902344,
+      190.6719970703125,
+      271.7960510253906
+    ],
+    "text": "ATM and debit card subtractions",
+    "block_no": 8,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      280.54254150390625,
+      576.1600952148438,
+      288.5425720214844
+    ],
+    "text": "Date\nDescription\nAmount",
+    "block_no": 9,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      298.1203918457031,
+      576.0689697265625,
+      307.1203918457031
+    ],
+    "text": "09/24/25\nMOBILE PURCHASE 0922  MTA*NYCT PAYGO NEW YORK     NY\n-2.90",
+    "block_no": 10,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      316.1203918457031,
+      576.0689697265625,
+      325.1203918457031
+    ],
+    "text": "09/24/25\nMOBILE PURCHASE 0922  MTA*NYCT PAYGO NEW YORK     NY\n-2.90",
+    "block_no": 11,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      334.1203918457031,
+      576.0899047851562,
+      343.1203918457031
+    ],
+    "text": "09/24/25\nCHECKCARD  0923 Walmart.com Bentonville  AR\n-31.99",
+    "block_no": 12,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      352.1203918457031,
+      576.0689697265625,
+      361.1203918457031
+    ],
+    "text": "09/25/25\nMOBILE PURCHASE 0924  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 13,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      370.1203918457031,
+      576.0689697265625,
+      379.1203918457031
+    ],
+    "text": "09/25/25\nMOBILE PURCHASE 0924  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 14,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      388.1203918457031,
+      576.0689697265625,
+      397.1203918457031
+    ],
+    "text": "09/26/25\nMOBILE PURCHASE 0925  GATEWAY NEWSTAND NEW YORK     NY\n-0.10",
+    "block_no": 15,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      406.1203918457031,
+      576.0899047851562,
+      415.1203918457031
+    ],
+    "text": "09/26/25\nPURCHASE   0925 MINT MOBILE 800-683-7392 CA\n-10.50",
+    "block_no": 16,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      424.1203918457031,
+      576.0689697265625,
+      433.1203918457031
+    ],
+    "text": "09/26/25\nMOBILE PURCHASE 0925  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 17,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      442.1203918457031,
+      576.0689697265625,
+      451.1203918457031
+    ],
+    "text": "09/26/25\nMOBILE PURCHASE 0925  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 18,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      460.1203918457031,
+      576.0689697265625,
+      469.1203918457031
+    ],
+    "text": "09/29/25\nMOBILE PURCHASE 0927  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 19,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      478.1203918457031,
+      576.0689697265625,
+      487.1203918457031
+    ],
+    "text": "09/29/25\nMOBILE PURCHASE 0927  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 20,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      496.1203918457031,
+      576.0899047851562,
+      505.1203918457031
+    ],
+    "text": "09/30/25\nCHECKCARD  0929 WALMART.CA MISSISSAUGA  ON 74587275272538391815119\n-35.55",
+    "block_no": 21,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      514.120361328125,
+      575.8499145507812,
+      523.120361328125
+    ],
+    "text": "09/30/25\nMOBILE PURCHASE 0928  TST*MITHAAS - JERSEY CI Jersey City  NJ\n-16.44",
+    "block_no": 22,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      532.120361328125,
+      576.0689697265625,
+      541.120361328125
+    ],
+    "text": "10/02/25\nPURCHASE   1001 APPLE.COM/BILL 866-712-7753 CA\n-1.06",
+    "block_no": 23,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      550.120361328125,
+      576.0689697265625,
+      559.120361328125
+    ],
+    "text": "10/02/25\nMOBILE PURCHASE 1001  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 24,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      36.0,
+      568.120361328125,
+      576.0689697265625,
+      577.120361328125
+    ],
+    "text": "10/03/25\nMOBILE PURCHASE 1001  LIFE CARE PHARMACY JERSEY CITY  NJ\n-3.00",
+    "block_no": 25,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      504.8399963378906,
+      585.435791015625,
+      576.8280639648438,
+      591.935791015625
+    ],
+    "text": "continued on the next page",
+    "block_no": 26,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      137.39999389648438,
+      629.7425537109375,
+      469.945068359375,
+      668.0634155273438
+    ],
+    "text": "A STORY 250 YEARS IN THE MAKING\nTHE AMERICAN REVOLUTION",
+    "block_no": 27,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      200.27999877929688,
+      670.7825317382812,
+      412.0490417480469,
+      678.7825317382812
+    ],
+    "text": "A FILM BY KEN BURNS, SARAH BOTSTEIN & DAVID SCHMIDT",
+    "block_no": 28,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      138.83999633789062,
+      685.2982177734375,
+      470.1686096191406,
+      707.7781982421875
+    ],
+    "text": "See The American Revolution through the lens of Ken Burns in this exploration\nof the people, events and imagination that became a nation.",
+    "block_no": 29,
+    "block_type": "text"
+  },
+  {
+    "page_num": 3,
+    "bbox": [
+      198.59999084472656,
+      714.8181762695312,
+      405.96929931640625,
+      737.5382080078125
+    ],
+    "text": "Only on PBS starting Sun Nov 16 8/7c\nLearn more at bankofamerica.com/KenBurns",
+    "block_no": 30,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      29.982540130615234,
+      361.08172607421875,
+      37.982582092285156
+    ],
+    "text": "XITIJ D PATEL   !   Account # 3850 3331 1779   !   September 23, 2025 to October 23, 2025",
+    "block_no": 0,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      504.0,
+      775.209228515625,
+      552.260009765625,
+      784.7092895507812
+    ],
+    "text": "Page 4 of 8",
+    "block_no": 1,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      66.74732208251953,
+      353.2349853515625,
+      81.74732208251953
+    ],
+    "text": "Withdrawals and other subtractions - continued",
+    "block_no": 2,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      99.99600982666016,
+      242.9657745361328,
+      110.99604797363281
+    ],
+    "text": "ATM and debit card subtractions - continued",
+    "block_no": 3,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      119.74254608154297,
+      576.1600952148438,
+      127.74258422851562
+    ],
+    "text": "Date\nDescription\nAmount",
+    "block_no": 4,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      137.32040405273438,
+      575.9699096679688,
+      146.32040405273438
+    ],
+    "text": "10/03/25\nMOBILE PURCHASE 1001  NASHTA JERSEY CITY  NJ\n-15.48",
+    "block_no": 5,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      155.32040405273438,
+      576.0689697265625,
+      164.32040405273438
+    ],
+    "text": "10/03/25\nMOBILE PURCHASE 1001  MTA*NYCT PAYGO NEW YORK     NY\n-2.90",
+    "block_no": 6,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      173.32040405273438,
+      576.0689697265625,
+      182.32040405273438
+    ],
+    "text": "10/06/25\nMOBILE PURCHASE 1002  MTA*NYCT PAYGO NEW YORK     NY\n-2.90",
+    "block_no": 7,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      191.32040405273438,
+      576.0689697265625,
+      200.32040405273438
+    ],
+    "text": "10/07/25\nMOBILE PURCHASE 1006  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 8,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      209.32040405273438,
+      576.0689697265625,
+      218.32040405273438
+    ],
+    "text": "10/08/25\nMOBILE PURCHASE 1006  MTA*NYCT PAYGO NEW YORK     NY\n-2.90",
+    "block_no": 9,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      227.32040405273438,
+      576.0689697265625,
+      236.32040405273438
+    ],
+    "text": "10/08/25\nMOBILE PURCHASE 1006  MTA*NYCT PAYGO NEW YORK     NY\n-2.90",
+    "block_no": 10,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      245.32040405273438,
+      576.0689697265625,
+      254.32040405273438
+    ],
+    "text": "10/08/25\nMOBILE PURCHASE 1006  MTA*NYCT PAYGO NEW YORK     NY\n-2.90",
+    "block_no": 11,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      263.32037353515625,
+      575.8499145507812,
+      272.32037353515625
+    ],
+    "text": "10/10/25\nCHECKCARD  1009 Walmart.com Bentonville  AR\n-40.49",
+    "block_no": 12,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      281.32037353515625,
+      575.948974609375,
+      290.32037353515625
+    ],
+    "text": "10/14/25\nMOBILE PURCHASE 1010  CRESCENT GIFT JSQ JERSEY CITY  NJ\n-4.00",
+    "block_no": 13,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      299.32037353515625,
+      576.0689697265625,
+      308.32037353515625
+    ],
+    "text": "10/14/25\nMOBILE PURCHASE 1010  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 14,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      317.32037353515625,
+      576.0689697265625,
+      326.32037353515625
+    ],
+    "text": "10/14/25\nMOBILE PURCHASE 1010  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 15,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      335.32037353515625,
+      576.0689697265625,
+      344.32037353515625
+    ],
+    "text": "10/14/25\nMOBILE PURCHASE 1012  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 16,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      353.32037353515625,
+      576.0689697265625,
+      362.32037353515625
+    ],
+    "text": "10/14/25\nMOBILE PURCHASE 1012  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 17,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      371.32037353515625,
+      576.0899047851562,
+      380.32037353515625
+    ],
+    "text": "10/15/25\nPURCHASE   1014 LYFT   *RIDE TUE 11AM LYFT.COM     CA\n-21.82",
+    "block_no": 18,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      389.32037353515625,
+      576.0689697265625,
+      398.32037353515625
+    ],
+    "text": "10/15/25\nMOBILE PURCHASE 1014  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 19,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      407.32037353515625,
+      576.0689697265625,
+      416.32037353515625
+    ],
+    "text": "10/16/25\nMOBILE PURCHASE 1014  NJT-PAYGO - OR60170008 ORANGE       NJ\n-2.95",
+    "block_no": 20,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      425.32037353515625,
+      576.0689697265625,
+      434.32037353515625
+    ],
+    "text": "10/16/25\nPURCHASE   1015 APPLE.COM/BILL 866-712-7753 CA\n-0.99",
+    "block_no": 21,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      443.32037353515625,
+      576.0689697265625,
+      452.32037353515625
+    ],
+    "text": "10/17/25\nMOBILE PURCHASE 1015  MTA*NYCT PAYGO NEW YORK     NY\n-2.90",
+    "block_no": 22,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      461.32037353515625,
+      576.0689697265625,
+      470.32037353515625
+    ],
+    "text": "10/17/25\nMOBILE PURCHASE 1015  MTA*NYCT PAYGO NEW YORK     NY\n-2.90",
+    "block_no": 23,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      479.32037353515625,
+      576.0689697265625,
+      488.32037353515625
+    ],
+    "text": "10/20/25\nMOBILE PURCHASE 1017  DELI PLUS 201-2221443  NJ\n-5.16",
+    "block_no": 24,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      497.32037353515625,
+      576.0689697265625,
+      506.32037353515625
+    ],
+    "text": "10/20/25\nMOBILE PURCHASE 1019  GATEWAY NEWSTAND NEW YORK     NY\n-2.50",
+    "block_no": 25,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      515.3203735351562,
+      576.0689697265625,
+      524.3203735351562
+    ],
+    "text": "10/21/25\nMOBILE PURCHASE 1020  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 26,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      533.3203735351562,
+      576.0689697265625,
+      542.3203735351562
+    ],
+    "text": "10/21/25\nMOBILE PURCHASE 1020  PATH TAPP PAYGO CP NEW JERSEY   NJ\n-3.00",
+    "block_no": 27,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      551.3203735351562,
+      575.9699096679688,
+      560.3203735351562
+    ],
+    "text": "10/22/25\nCHECKCARD  1021 Walmart.com Bentonville  AR\n-49.37",
+    "block_no": 28,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      569.3203735351562,
+      576.0899047851562,
+      578.3203735351562
+    ],
+    "text": "10/23/25\nPURCHASE   1021 THE HOME DEPOT #6845 JERSEY CITY  NJ\n-19.69",
+    "block_no": 29,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      587.8582153320312,
+      576.0997924804688,
+      597.8582153320312
+    ],
+    "text": "Total ATM and debit card subtractions\n-$332.19",
+    "block_no": 30,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      621.6273193359375,
+      117.8699951171875,
+      636.6273193359375
+    ],
+    "text": "Service fees",
+    "block_no": 31,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      642.2225341796875,
+      576.1600952148438,
+      650.2225341796875
+    ],
+    "text": "Date\nTransaction description\nAmount",
+    "block_no": 32,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      657.88037109375,
+      576.0689697265625,
+      677.6803588867188
+    ],
+    "text": "09/30/25\nCHECKCARD  0929 WALMART.CA MISSISSAUGA  ON\n74587275272538391815119 INTERNATIONAL TRANSACTION FEE\n-1.07",
+    "block_no": 33,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      687.2182006835938,
+      576.1798706054688,
+      697.2182006835938
+    ],
+    "text": "Total service fees\n-$1.07",
+    "block_no": 34,
+    "block_type": "text"
+  },
+  {
+    "page_num": 4,
+    "bbox": [
+      36.0,
+      703.8403930664062,
+      306.3690185546875,
+      712.8403930664062
+    ],
+    "text": "Note your Ending Balance already reflects the subtraction of Service Fees.",
+    "block_no": 35,
+    "block_type": "text"
+  },
+  {
+    "page_num": 5,
+    "bbox": [
+      36.0,
+      76.78254699707031,
+      361.08172607421875,
+      84.78258514404297
+    ],
+    "text": "XITIJ D PATEL   !   Account # 3850 3331 1779   !   September 23, 2025 to October 23, 2025",
+    "block_no": 0,
+    "block_type": "text"
+  },
+  {
+    "page_num": 5,
+    "bbox": [
+      504.0,
+      775.209228515625,
+      552.260009765625,
+      784.7092895507812
+    ],
+    "text": "Page 5 of 8",
+    "block_no": 2,
+    "block_type": "text"
+  },
+  {
+    "page_num": 5,
+    "bbox": [
+      61.19999694824219,
+      94.96039581298828,
+      572.2289428710938,
+      114.04039001464844
+    ],
+    "text": "Braille and Large Print Request - You can request a copy of this statement in Braille or Large Print by calling 800.432.1000 or going to\nbankofamerica.com and enter Visually Impaired Access from the home page.",
+    "block_no": 3,
+    "block_type": "text"
+  },
+  {
+    "page_num": 6,
+    "bbox": [
+      223.1999969482422,
+      397.6538391113281,
+      388.404052734375,
+      409.6538391113281
+    ],
+    "text": "This page intentionally left blank",
+    "block_no": 0,
+    "block_type": "text"
+  },
+  {
+    "page_num": 6,
+    "bbox": [
+      36.0,
+      26.38254165649414,
+      361.08172607421875,
+      34.38258361816406
+    ],
+    "text": "XITIJ D PATEL   !   Account # 3850 3331 1779   !   September 23, 2025 to October 23, 2025",
+    "block_no": 1,
+    "block_type": "text"
+  },
+  {
+    "page_num": 6,
+    "bbox": [
+      504.0,
+      775.209228515625,
+      552.260009765625,
+      784.7092895507812
+    ],
+    "text": "Page 6 of 8",
+    "block_no": 2,
+    "block_type": "text"
+  },
+  {
+    "page_num": 7,
+    "bbox": [
+      40.68000030517578,
+      66.56546020507812,
+      542.0518798828125,
+      111.3338623046875
+    ],
+    "text": "Important Messages - Please Read\nWe want to make sure you stay up-to-date on changes, reminders, and other important details that\ncould impact you.",
+    "block_no": 0,
+    "block_type": "text"
+  },
+  {
+    "page_num": 7,
+    "bbox": [
+      171.0,
+      766.2982177734375,
+      552.260009765625,
+      784.7092895507812
+    ],
+    "text": "Page 7 of 8",
+    "block_no": 1,
+    "block_type": "text"
+  },
+  {
+    "page_num": 7,
+    "bbox": [
+      36.0,
+      136.89825439453125,
+      438.5384826660156,
+      146.89820861816406
+    ],
+    "text": "Announcing a new look and feel for our Deposit Agreement and Disclosures document.",
+    "block_no": 2,
+    "block_type": "text"
+  },
+  {
+    "page_num": 7,
+    "bbox": [
+      36.0,
+      161.4982452392578,
+      574.5379028320312,
+      183.6182098388672
+    ],
+    "text": "Starting November 14, 2025, you can visit bankofamerica.com/depositagreement to see the updates we have made to simplify \nthe document. You can also request a copy at any financial center, or call us at the number on this statement.",
+    "block_no": 3,
+    "block_type": "text"
+  },
+  {
+    "page_num": 8,
+    "bbox": [
+      223.1999969482422,
+      397.6538391113281,
+      388.404052734375,
+      409.6538391113281
+    ],
+    "text": "This page intentionally left blank",
+    "block_no": 0,
+    "block_type": "text"
+  },
+  {
+    "page_num": 8,
+    "bbox": [
+      36.0,
+      26.38254165649414,
+      361.08172607421875,
+      34.38258361816406
+    ],
+    "text": "XITIJ D PATEL   !   Account # 3850 3331 1779   !   September 23, 2025 to October 23, 2025",
+    "block_no": 1,
+    "block_type": "text"
+  },
+  {
+    "page_num": 8,
+    "bbox": [
+      504.0,
+      775.209228515625,
+      552.260009765625,
+      784.7092895507812
+    ],
+    "text": "Page 8 of 8",
+    "block_no": 2,
+    "block_type": "text"
+  }
+]

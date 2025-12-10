@@ -7,3 +7,8 @@ sentence-transformers
 python-dotenv
 fastapi
 uvicorn[standard]
+langchain-community
+pytesseract
+pillow
+crewai>=0.80.0,<1.0.0
+
