@@ -4,7 +4,7 @@
 
 Note: Although the system is general-purpose and can analyze any PDF using RAG + multi-agent reasoning, it is specifically tuned for the mortgage domain (loan estimates, fee worksheets, payoff statements). All agents — overview, numeric validation, checklist, risk — are optimized for mortgage terminology, formatting, and key financial fields. As a result, accuracy is significantly higher on mortgage-related documents. Non-mortgage PDFs may still work but can produce incomplete interpretations or LLM hallucinations.
 ````markdown
-ACRR FOSS is an open-source financial document analysis tool that turns raw PDFs  
+ACRR is an financial document analysis tool that turns raw PDFs  
 (like lender fee worksheets, loan estimates, or other mortgage docs) into:
 
 - ✅ Searchable vector indexes (FAISS)
