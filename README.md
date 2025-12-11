@@ -1,6 +1,6 @@
 
 # 🎥 Project Demo Video Here 👉 https://youtu.be/NCUYpHODJmE
-# ACRR FOSS – Automated Compliance & Risk Reporter
+# ACRR – Automated Compliance & Risk Reporter
 
 Note: Although the system is general-purpose and can analyze any PDF using RAG + multi-agent reasoning, it is specifically tuned for the mortgage domain (loan estimates, fee worksheets, payoff statements). All agents — overview, numeric validation, checklist, risk — are optimized for mortgage terminology, formatting, and key financial fields. As a result, accuracy is significantly higher on mortgage-related documents. Non-mortgage PDFs may still work but can produce incomplete interpretations or LLM hallucinations.
 ````markdown
