@@ -193,7 +193,12 @@ Each agent shows:
 * [x] Key-field extraction
 * [x] Multi-agent financial analysis
 
+## Limitations
 
-
+ ✔ Domain-specific tuning
+ 
+ ✔ Possible hallucinations on unrelated documents
+ 
+ ✔ Works best on text-based (non-scanned) PDFs
 
 
