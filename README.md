@@ -1,30 +1,32 @@
 
 # 🎥 Project Demo Video Here 👉 https://youtu.be/NCUYpHODJmE
 # ACRR FOSS – Automated Compliance & Risk Reporter
+
+Note: Although the system is general-purpose and can analyze any PDF using RAG + multi-agent reasoning, it is specifically tuned for the mortgage domain (loan estimates, fee worksheets, payoff statements). All agents — overview, numeric validation, checklist, risk — are optimized for mortgage terminology, formatting, and key financial fields. As a result, accuracy is significantly higher on mortgage-related documents. Non-mortgage PDFs may still work but can produce incomplete interpretations or LLM hallucinations.
 ````markdown
-ACRR FOSS is an open-source **financial document analysis tool** that turns raw PDFs  
+ACRR FOSS is an open-source financial document analysis tool that turns raw PDFs  
 (like lender fee worksheets, loan estimates, or other mortgage docs) into:
 
-- ✅ Searchable **vector indexes** (FAISS)
-- ✅ **RAG-style Q&A** over a single document
-- ✅ **Mortgage key-field extraction** (loan amount, rate, fees, etc.)
-- ✅ **Multi-agent analysis** with CrewAI (overview, numeric checks, risk notes)
-- ✅ A clean **Streamlit UI** to demo the whole pipeline end-to-end
+- ✅ Searchable vector indexes (FAISS)
+- ✅ RAG-style Q&A over a single document
+- ✅ Mortgage key-field extraction (loan amount, rate, fees, etc.)
+- ✅ Multi-agent analysis with CrewAI (overview, numeric checks, risk notes)
+- ✅ A clean Streamlit UI to demo the whole pipeline end-to-end
 
-All logic runs with **free, local tools**: Python, FastAPI, FAISS, Ollama, Streamlit.
+All logic runs with free, local tools: Python, FastAPI, FAISS, Ollama, Streamlit.
 
 ---
 
 ## 🔧 Tech Stack
 
-### **Backend**
+### Backend
 - Python 3.11  
 - FastAPI + Uvicorn  
 - FAISS (vector store)  
-- Local LLM via **Ollama** (Qwen, Mistral, LLaMA models)  
+- Local LLM via Ollama (Qwen, Mistral, LLaMA models)  
 - CrewAI for multi-agent workflows  
 
-### **Frontend**
+### Frontend
 - Streamlit (single-page UI)
 - Guided pipeline tabs:
   1. Extract & Inspect  
@@ -33,11 +35,11 @@ All logic runs with **free, local tools**: Python, FastAPI, FAISS, Ollama, Strea
   4. Multi-Agent Analysis  
   5. Chat (Experimental)
 
-### **PDF / Text Processing**
+### PDF / Text Processing
 - PyMuPDF (`fitz`) for text extraction  
 - Character-based text chunking  
 - Layout analysis with bounding boxes (`layout_blocks`)  
-- Optional layout-based key/value discovery  
+- Layout-based key/value discovery  
 
 ---
 
@@ -182,16 +184,15 @@ Each agent shows:
 ---
 
 
-## ✅ Status & Future Ideas
+## ✅ Achieved Stack
 
-### Completed
 
 * [x] PDF → text & layout extraction
 * [x] Chunking + FAISS indexing
 * [x] Local-LLM RAG
 * [x] Key-field extraction
 * [x] Multi-agent financial analysis
-* [x] Streamlit UI
+
 
 
 
